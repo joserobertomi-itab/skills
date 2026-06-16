@@ -1,8 +1,28 @@
-# skills
+# joser-skills
 
 My agent skills for daily engineering work.
 
 ## Install
+
+### Claude Code
+
+```bash
+npx skills@latest add joserobertomi-itab/skills -a claude-code
+```
+
+### Codex
+
+```bash
+npx skills@latest add joserobertomi-itab/skills -a codex
+```
+
+### Cursor
+
+```bash
+npx skills@latest add joserobertomi-itab/skills -a cursor
+```
+
+### Interactive (choose agent during install)
 
 ```bash
 npx skills@latest add joserobertomi-itab/skills
