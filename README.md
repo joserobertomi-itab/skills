@@ -1,4 +1,4 @@
-# joser-skills
+# skills
 
 My agent skills for daily engineering work.
 
